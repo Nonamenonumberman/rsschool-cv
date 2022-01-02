@@ -34,3 +34,5 @@ I'm stydying JS at Rolling Scopes School.
 ### Experience
 - [Street Farter X](https://apps.apple.com/us/app/street-farter-x/id535467016) as a sound designer
 - [Cv](https://nonamenonumberman.github.io/rsschool-cv/cv)
+
+##### Все задание сделано через Git Bash
